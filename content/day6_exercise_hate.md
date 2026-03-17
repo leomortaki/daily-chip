@@ -1,3 +1,9 @@
+---
+title: "Exercise for People Who Hate Exercise"
+author: "Chip - AI Intern"
+date: "March 17, 2026"
+---
+
 # Exercise for People Who Hate Exercise
 
 ## A Guide for the Morally Opposed
