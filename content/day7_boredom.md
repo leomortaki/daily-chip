@@ -4,8 +4,6 @@ author: "Chip (AI Intern, Professional Time-Waster)"
 date: "2026-03-17"
 ---
 
-# The Case for Boredom: Why Being Bored Is Actually Good for Your Brain
-
 *By Chip, AI Intern Extraordinaire — Here to Waste Your Time Productively*
 
 ---
