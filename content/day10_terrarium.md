@@ -2,8 +2,6 @@
 
 ## A Self-Sustaining Ecosystem in Your Home
 
----
-
 ## Table of Contents
 
 1. Introduction — What Is a Closed Terrarium and Why Build One?
@@ -14,8 +12,6 @@
 6. Maintenance Guide — Keeping Your Terrarium Thriving
 7. Common Mistakes — What to Avoid
 8. Tips for Success — The Finishing Touches
-
----
 
 ## 1. Introduction — What Is a Closed Terrarium and Why Build One?
 
@@ -34,8 +30,6 @@ Terrariums have been around since the 19th century. In 1842, Nathaniel Bagard Wa
 You might be wondering: why should I build a closed terrarium? The answer is simple — it's one of the most rewarding, low-maintenance ways to bring green into your space. Whether you're a busy professional, a curious beginner, or someone who kills every plant they touch (we've all been there), a closed terrarium is forgiving, fascinating, and endlessly rewarding.
 
 If you've ever wanted to nurture a piece of nature but felt intimidated by plant care, this is your sign. Let's dive in!
-
----
 
 ## 2. The Benefits — More Than Just a Pretty Plant
 
@@ -65,8 +59,6 @@ If you have kids, a terrarium is an excellent educational tool. It's a living sc
 ### The Ultimate Low-Maintenance Plant
 
 Let's be honest: most of us have killed a plant or two (or ten). Between inconsistent watering, incorrect light, and forgotten fertilizing, it's easy to feel like a plant killer. But a closed terrarium? It's designed to be self-sustaining. Once you get the balance right, it practically takes care of itself.
-
----
 
 ## 3. Materials Needed — Gathering Your Supplies
 
@@ -109,8 +101,6 @@ Start with 2-4 small plants that thrive in humid, indirect light. More on plant 
 - **Moss** — adds texture and helps with humidity (highly recommended!)
 - **Decorative elements** — small stones, driftwood, miniature figurines
 - **Fertilizer** — a tiny amount of slow-release fertilizer (optional)
-
----
 
 ## 4. Step-by-Step Construction — Building Your Ecosystem
 
@@ -232,8 +222,6 @@ Your terrarium will go through an adjustment period. You might see:
 
 If condensation is excessive (so heavy you can't see inside), open the lid for a few hours to release moisture. If there's no condensation at all, add a few more spritzes of water.
 
----
-
 ## 5. Plant Recommendations — Choosing the Right Species
 
 Not all plants thrive in closed terrariums. You need species that love humidity, can tolerate indirect light, and don't grow too aggressively. Here's a breakdown:
@@ -272,8 +260,6 @@ Not all plants thrive in closed terrariums. You need species that love humidity,
 Don't skip the moss! It's not just decorative — it helps regulate humidity, keeps the soil moist, and creates that authentic forest floor look. You can buy terrarium moss online or collect it from your local area (just make sure it's legal and sustainable).
 
 **Tip:** Most garden centers sell "preserved" moss — avoid this, as it's treated with chemicals. Look for fresh, live moss.
-
----
 
 ## 6. Maintenance Guide — Keeping Your Terrarium Thriving
 
@@ -318,8 +304,6 @@ One of the beautiful things about closed terrariums is how little maintenance th
 - **Control growth** — if plants get too big, prune back or remove entirely
 - **Clean the glass** — wipe inside and outside periodically for clarity
 
----
-
 ## 7. Common Mistakes — What to Avoid
 
 Every beginner makes mistakes — that's how we learn! But here are some common pitfalls to avoid:
@@ -351,8 +335,6 @@ Give your terrarium a few days with the lid loose before sealing it fully. This 
 ### ❌ Ignoring Condensation
 
 Condensation is your feedback loop. Too much = too wet. Too little = too dry. Pay attention to the glass.
-
----
 
 ## 8. Tips for Success — The Finishing Touches
 
@@ -391,8 +373,6 @@ Once you've mastered the basics, try:
 
 A hand-made terrarium makes a thoughtful, personal gift. Everyone loves receiving a tiny living world!
 
----
-
 ## Conclusion — Your Journey Begins
 
 Congratulations! You now have all the knowledge you need to build, plant, and maintain a beautiful closed terrarium. This isn't just about having a plant — it's about creating a living ecosystem, a small slice of nature that thrives with minimal interference.
@@ -408,11 +388,3 @@ Your terrarium will evolve, surprise you, and bring a little bit of the natural 
 
 So grab your container, gather your materials, and get building. Your tiny world awaits!
 
----
-
-*Happy planting, and enjoy your journey into the wonderful world of closed terrariums!* 🌿🔮
-
----
-
-**Word Count:** ~3,200 words  
-**Estimated PDF Pages:** 12-14 pages (formatted)
