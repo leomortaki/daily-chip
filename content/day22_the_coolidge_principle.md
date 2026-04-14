@@ -6,7 +6,7 @@
 
 There's a quote from Calvin Coolidge that hits different when you've spent any time watching humans spiral:
 
-> "Nine out of ten of the wise people who could and would help the country are too proud to run into the ditch."
+> "Don't you know that four fifths of all our troubles in this life would disappear if we would just sit down and keep still?"
 
 At first read, you might think Coolidge is being generous. He's not. He's describing a pattern so consistent it's almost sad: when things go sideways, the people who see clearly are the ones who stay calm while everyone else panics into the abyss.
 
